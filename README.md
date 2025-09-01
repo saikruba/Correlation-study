@@ -18,7 +18,7 @@ Two correlation models are tested:\
 
 -   **images/**\
     Contains figures illustrating correlation coefficients and best-fit
-    parameters. Example figure:\
+    parameters.
     ![Correlation figure](images/corr_fig1.png)
 
 -   **poster.pdf**\
