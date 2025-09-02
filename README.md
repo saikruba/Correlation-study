@@ -14,7 +14,6 @@ Two correlation models are tested:
 1. Pₛ = k₁ P_b\^(q₁)\
 2. Pₛ = k \[(1 - e)\^(3/2) P_b\]\^q
 
-### Folder Contents
 
 -   **images/**
     Contains figures illustrating correlation coefficients and best-fit
