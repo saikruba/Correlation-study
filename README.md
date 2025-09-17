@@ -10,9 +10,33 @@ The analysis includes statistical correlation tests using:
 - **Spearman coefficient**
 - **Kendall's tau coefficient**
 
-Two correlation models are tested:
-1. Pₛ = k₁ P_b\^(q₁)\
-2. Pₛ = k \[(1 - e)\^(3/2) P_b\]\^q
+### Correlation Models
+
+Two correlation models tested between the spin period ($P_s$) and orbital period ($P_b$), suggested by **Corbet**, can be written in the following form:
+
+$$
+P_s = k_1 \, P_b^{q_1} \tag{1}
+$$
+
+$$
+P_s = k \, \big[(1 - e)^{\tfrac{3}{2}} P_b \big]^q \tag{2}
+$$
+
+where:  
+
+- $P_s$ = spin period  
+- $P_b$ = orbital period  
+- $e$ = orbital eccentricity  
+- $k, q, k_1, q_1$ = fit parameters  
+
+---
+
+**Typical parameter values:**  
+
+- For X-ray pulsars with **Be companions**: $k_1 = 10,\; q_1 = 0.5$  
+- For X-ray pulsars with **supergiant companions**: $k = 0.01,\; q = 2$  
+- For X-ray pulsars with **massive companions**: (fits vary depending on dataset)  
+
 
 
 -   **images/**
