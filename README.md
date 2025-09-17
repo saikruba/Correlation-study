@@ -37,13 +37,14 @@ where:
 - For X-ray pulsars with **supergiant companions**: $k = 0.01,\; q = 2$  
 - For X-ray pulsars with **massive companions**: (fits vary depending on dataset)  
 
+---
 
-
--   **images/**
+**images/**
     Contains figures illustrating correlation coefficients and best-fit
     parameters.
+    
     ![Correlation figure](images/corr_fig1.png)
 
--   **poster.pdf**
+**poster.pdf**
     A summary poster of the analysis, including detailed results and
     tables.
