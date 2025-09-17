@@ -15,11 +15,11 @@ The analysis includes statistical correlation tests using:
 Two correlation models tested between the spin period ($P_s$) and orbital period ($P_b$), suggested by **Corbet**, can be written in the following form:
 
 $$
-P_s = k_1 \, P_b^{q_1} \tag{1}
+P_s = k_1 P_b^{q_1}
 $$
 
 $$
-P_s = k \, \left[(1 - e)^{\tfrac{3}{2}} \, P_b \right]^q \tag{2}
+P_s = k \big[(1 - e)^{3/2} P_b \big]^q
 $$
 
 where:  
