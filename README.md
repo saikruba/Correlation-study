@@ -43,7 +43,8 @@ where:
     Contains figures illustrating correlation coefficients and best-fit
     parameters.
     
-  ![Correlation figure](../images/corr_fig1.png)
+ ![Correlation figure](correlation-study/images/corr_fig1.png)
+
 
 
 **poster.pdf**
